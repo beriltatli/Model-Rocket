@@ -1,4 +1,4 @@
-# Model-Rocket
+# Model-Rocket🚀
 
 A basic model rocket flight simulator built in MATLAB, using App Designer for the GUI. You enter rocket and motor parameters and it calculates the flight (thrust, drag, gravity) and plots altitude, velocity and acceleration over time.
 
